@@ -1,0 +1,11 @@
+name: INSituExplosion
+main: Anders\INSituExplosion\Main
+version: "1.0.0"
+api:
+  - 1.0.0
+  - 2.0.0
+  - 3.0.0
+  - 4.0.0
+load: STARTUP
+author: "Anders"
+description: 没有爆炸伤害，爆炸不会破坏方块
